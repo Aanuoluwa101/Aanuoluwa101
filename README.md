@@ -1,5 +1,5 @@
 ![Banner](images/banner.png)
-# 👋 Meet me
+### 👋 Meet me
 I'm a backend developer on a mission to build softwares that people love. Backend reminds me of the word "Backbone", and just like a solid backbone ensures stability, I strive to create reliable, scalable, and performant solutions with every line of code. I've had the opportunity of writing code that solve real-life problems, and I'm excited to keep creating solutions that truly make a difference.
 
 <p align="left">
@@ -28,3 +28,63 @@ I'm a backend developer on a mission to build softwares that people love. Backen
 
 <br />
 
+#
+
+### 🚀 Projects
+<table bordercolor="#66b2b2">
+  
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">Akowe</h3>
+        <br />
+        <a target="_blank" href="https://akowe.vercel.app/">
+            <img src="images/akowe.png" width="100%" alt="Roster generation app"/>
+        </a>
+        <br />
+        <p align="center">
+          
+  <a href="https://github.com/Aanuoluwa101/akowe" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
+  </a>  
+  <a href="akowe.vercel.app" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
+  </a>
+      </p>
+        <p><strong>Python, Django, Djangorestframework, postgres & Next.js</strong> - An algorithm-powered, service roster-generation tool for Celestial churches (a Christian denomination).</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">SoundSophisticated</h3>
+        <br />
+      <a target="_blank" href="https://soundsophisticated.vercel.app/">
+            <img src="images/soundsophisticated.png" width="100%"  alt="Rigley 2"/>
+        </a>
+        <br />
+        <p align="center">
+          
+  <a href="https://github.com/Aanuoluwa101/soundsophisticated" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
+  </a>
+  <a href="https://soundsophisticated.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
+  </a>
+      </p>
+        <p><strong>Python, Flask, MongoDB & React.js</strong>An AI web app that helps users improve their vocabulary by helping them learn new words in contexts of their choosing.</p>
+    </td>
+  </tr>
+    <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">Clipshare</h3>
+        <br />
+        <a target="_blank" href="">
+            <img src="images/clipshare.png" width="100%" alt="Roster generation app"/>
+        </a>
+        <br />
+        <p align="center">
+          
+  <a href="https://github.com/Aanuoluwa101/clipshare" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
+  </a>  
+      </p>
+        <p><strong>Python, tkinter</strong>A desktop application for sharing clipboard content between two PCs.</p>
+    </td>
+</table>
